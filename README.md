@@ -1406,10 +1406,6 @@ Using a local instance on your laptop with ngrok is a good solution for your dem
 - Finally, copy the URI connection string and replace the URI in MONGODB_URI of `.env.example` with this URI string. Make sure to replace the <PASSWORD> with the db User password that you created under the Security tab.
 - Note that after some of the steps in the Atlas UI, you may see a banner stating `We are deploying your changes`. You will need to wait for the deployment to finish before using the DB in your application.
 
-## Production
-
-If you are starting with this boilerplate to build an application for prod deployment, or if after your hackathon you would like to get your project hardened for production use, see [prod-checklist.md](https://github.com/sahat/hackathon-starter/blob/master/prod-checklist.md).
-
 ## Changelog
 
 You can find the changelog for the project in: [CHANGELOG.md](https://github.com/sahat/hackathon-starter/blob/master/CHANGELOG.md)
