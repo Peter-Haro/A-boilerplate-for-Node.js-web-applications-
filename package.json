@@ -72,7 +72,7 @@
     "passport-steam-openid": "^1.1.7",
     "pdfjs-dist": "^5.4.54",
     "pug": "^3.0.3",
-    "sass": "^1.91.0",
+    "sass": "^1.93.2",
     "stripe": "^18.5.0",
     "twilio": "^5.8.0",
     "twitch-passport": "^1.0.6",
