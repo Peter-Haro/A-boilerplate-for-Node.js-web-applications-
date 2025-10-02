@@ -23,8 +23,8 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.0",
-    "@googleapis/drive": "^15.0.0",
-    "@googleapis/sheets": "^11.1.0",
+    "@googleapis/drive": "^18.0.0",
+    "@googleapis/sheets": "^12.0.0",
     "@huggingface/inference": "^4.7.1",
     "@langchain/community": "^0.3.53",
     "@langchain/core": "^0.3.72",
@@ -73,7 +73,7 @@
     "pdfjs-dist": "^5.4.54",
     "pug": "^3.0.3",
     "sass": "^1.91.0",
-    "stripe": "^18.5.0",
+    "stripe": "^19.0.0",
     "twilio": "^5.8.0",
     "twitch-passport": "^1.0.6",
     "validator": "^13.15.15"
